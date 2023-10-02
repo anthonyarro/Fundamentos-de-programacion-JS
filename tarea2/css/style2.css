@@ -1,0 +1,26 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container2 {
+    background-color: rgba(0, 0, 0, 0.635);
+    border-radius: 10%;
+    padding: 20px; }
+
+
+    .form {
+        margin-left: 65px;
+        
+      }
+
+
+body {
+    background-image: url("../imagenes/codingPic.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}

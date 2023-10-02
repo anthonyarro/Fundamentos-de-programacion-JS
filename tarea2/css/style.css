@@ -1,0 +1,40 @@
+html,
+body {
+    height: 100%;
+    background-image: url("../imagenes/background.jpeg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container2 {
+    background-color: rgba(0, 0, 0, 0.635);
+    border-radius: 10%;
+    padding: 20px;
+}
+
+.loginBackground {
+
+    height: 100%;
+    background-image: url("../imagenes/background2.jpeg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.form {
+  margin-left: 65px;
+  
+}
+
