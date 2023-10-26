@@ -1,0 +1,33 @@
+.container {
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container2 {
+    background-color: rgba(0, 0, 0, 0.635);
+    border-radius: 10%;
+    padding: 20px;
+}
+
+.loginBackground {
+
+    height: 100%;
+    background-image: url("../imagenes/imagen1.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.form {
+  margin-left: 65px;
+  
+}
+
+#imagen {
+  width: 300px;
+  height: 200px;
+}
+
